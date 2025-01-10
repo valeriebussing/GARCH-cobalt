@@ -1,8 +1,4 @@
----
-title: "Variables"
-output: html_notebook
----
-  
+
 #Loading packages
 ```{r}
 library(tempdisagg)
